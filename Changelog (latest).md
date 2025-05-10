@@ -1,30 +1,42 @@
-Version 3.3
+Version 3.5
 
 
-- Aeros Web Store has been updated to Version 3.1 with brand new Apps
-
-​
-
-- UltraLite Features updated to Version 3.3.2
+- Windows10 UltraLite Edition Vers. 1.5 released 
 
 ​
 
-- Aeros Bootlogo with Hackbgrt updated to 2.5.1
+- Windows11 UltraLite Edition Vers. 1.5 released
+
+​​
+
+- Windows 11 Gaming Edition Vers.3.3 released 
 
 ​
 
-- Aeros Player updated to Version 2.6
+- Aeros Updater updated to Version 3.0
 
 ​
 
-- Aeros Updater updated to Version 2.8
+- Aeros Updater lite updated to Version 2.5
 
 ​
 
-- Aeros Updater Lite updated to Version 2.1
+- Aeros Welcome updated to Version 1.5
 
 ​
 
-- ​Windows 11 Gaming Edition Vers.3.3 released
+- Add new App (Ghost Theme) to Windows 10 Gaming Edition
+
+​
+
+- Add new App (Aeros Downloader)
+
+​​
+
+- UltraLite Features updated to Version 3.5
+
+​
+
+- Aeros Bootlogo with HackBGRT updated to 2.5.2
 
 ​
